@@ -1,0 +1,11 @@
+package br.com.alura;
+
+public class Aluno {
+
+	private String nome;
+	private int numeroMatricula;
+	private String cpf;
+	private 
+	
+	 
+}
